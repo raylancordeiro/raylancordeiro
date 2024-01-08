@@ -26,10 +26,10 @@ Com uma visão ampla e uma abordagem criativa, estou constantemente em busca de 
  ###  My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
  <div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=raylancordeiro&show_icons=true&theme=transparent&&rank_icon=github" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=raylancordeiro&show_icons=true&theme=transparent&&rank_icon=github" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=raylancordeiro&layout=compact&langs_count=8&card_width=320&theme=transparent" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=raylancordeiro&layout=compact&langs_count=8&card_width=320&theme=transparent" />
 </a>
 </div>
 
