@@ -5,7 +5,7 @@
 [![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5585987317117&text=Ol%C3%A1%20Raylan,%20vi%20seu%20portf%C3%B3lio.%20Estou%20entrando%20em%20contato%20com%20voc%C3%AA%20para%20...)
 [![linkedin](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raylanocordeiro@gmail.com)
 
-Sou [Raylan](https://www.raylancordeiro.com), tenho ampla experiência em arquitetura e desenvolvimento de software.
+Sou [Raylan](https://raylancordeiro.tech), tenho ampla experiência em arquitetura e desenvolvimento de software.
 
 ## Sobre mim
 Com mais de 11 anos no mercado, entreguei soluções inovadoras e eficientes por meio da análise detalhada e criatividade na resolução de desafios. Sempre entregando muito valor em todas as [empresas](https://www.linkedin.com/in/raylancordeiro/) que trabalhei. Minha especialidade abrange uma variedade de tecnologias, incluindo:
